@@ -1,5 +1,5 @@
 
-<h2>Objetivos:<h2>
+Objetivos:
 
 * Testar o Google GCP com fundamentos básicos de Cloud, Spark e Python.
 
